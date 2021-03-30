@@ -1,0 +1,4 @@
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\libros\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\libros\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\libros\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\libros\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
